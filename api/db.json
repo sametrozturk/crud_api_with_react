@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "name": "samet",
+      "writer": "samet öztürk",
+      "publisher": "react",
+      "id": 1
+    },
+    {
+      "name": "deneme",
+      "writer": "deneme2",
+      "publisher": "deneme",
+      "id": 3
+    },
+    {
+      "name": "deneme",
+      "writer": "sadfasdf",
+      "publisher": "fasdfa",
+      "id": 4
+    }
+  ]
+}
